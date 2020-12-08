@@ -5,7 +5,7 @@
         <nuxt-link class="btn block" to="/">Home</nuxt-link>
       </li>
      <li class="flex-1">
-        <nuxt-link class="btn block" to="/projects">About</nuxt-link>
+        <nuxt-link class="btn block" to="/about">About</nuxt-link>
       </li> 
       <li class="flex-1">
         <nuxt-link class="btn block" to="/projects">Projects</nuxt-link>
