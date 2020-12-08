@@ -1,8 +1,9 @@
 <template>
   <div class="main text-center flex flex-col items-center justify-center">
     <!-- <logo /> -->
-    <h1 class="title">Nuxt — Tailwind — Netlify CMS</h1>
+    <h1 class="title">R.Zorzi Developer Blog </h1>
     <h2 class="subtitle">Boilerplate</h2>
+    <button>Link</button>
   </div>
 </template>
 
